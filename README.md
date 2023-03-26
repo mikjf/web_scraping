@@ -1,4 +1,4 @@
-# Web scraping with Beautifulsoup4 and Selenium
+# Web scraping with Beautiful Soup and Selenium
 
 ![alternative text](img/readme_image.jpg)
 
