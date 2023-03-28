@@ -11,6 +11,9 @@ Understand the web scraping process and use the Beautiful Soup library to extrac
 * [web_scraping_beautifulsoup](web_scraping_beautifulsoup.ipynb)
 * [web_scraping_jobs_ch](web_scraping_jobs_ch.ipynb)
 
+### Sources
+* The walkthrough of the notebooks are based on materials from [Constructor Learning](https://learning.constructor.org/data-science)
+
 ### Technologies and packages
 * Python
 * BeautifulSoup4
