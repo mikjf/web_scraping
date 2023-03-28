@@ -1,24 +1,16 @@
-# Web scraping with Beautiful Soup and Selenium
+# Web scraping jobs.ch with Beautiful Soup
 
 ![alternative text](img/readme_image.jpg)
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Completed]
 
 ## Objective
-XXX.
+Understand the web scraping process and use the Beautiful Soup library to extract relevant data from the website [jobs.ch](https://www.jobs.ch/en/). Please note that as jobs.ch updates its website, some classes and class attributes might change. If you decide to run the notebook please make sure to check whether they are still the same as you might need to update them.
 
 ### Notebooks
-* [X](json_theory.ipynb)
-* [X](http_requests.ipynb)
-* [X](google_api_how_to.ipynb)
-* [X](google_api_roadtrip.ipynb)
-* [X](nobel_prize_api_analysis.ipynb)
-
-### Resources
-* [X](https://developers.google.com/maps/documentation/places/web-service)
-* [X](http://api.nobelprize.org/v1/prize.json)
+* [web_scraping_beautifulsoup](web_scraping_beautifulsoup.ipynb)
+* [web_scraping_jobs_ch](web_scraping_jobs_ch.ipynb)
 
 ### Technologies and packages
 * Python
-* Beautifulsoup4
-* Selenium
+* BeautifulSoup4
